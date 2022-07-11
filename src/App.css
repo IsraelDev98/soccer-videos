@@ -88,3 +88,28 @@ img:hover{
   text-align: center;
   padding: 40px;
 }
+
+@media screen and (max-width: 768px) {
+  .navbar{
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 25px 0px;
+    min-width: 200px;
+    display: block;
+  }
+  .navbar > ul{
+    justify-content: center;
+  }
+  .navbar > ul > li{
+    font-size: 15px;
+  }
+  .navbar > ul > li > a{
+    font-size: 10px;
+  }
+  .navbar > ul > li > a:hover{
+    font-size: 12px;
+  }
+  .content-container{
+    grid-template-columns: repeat(1,2fr);
+  }
+}
