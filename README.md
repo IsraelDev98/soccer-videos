@@ -1,3 +1,9 @@
+# SITE IMAGE
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/109047215/178315616-87734f80-66a9-4baf-b3eb-83349b2e9c62.PNG" widht="500px"/>
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
